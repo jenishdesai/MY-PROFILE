@@ -2,9 +2,8 @@
 
 <p align="center"><img src="header.gif" alt="Header-GIF" width="100%"/></a></p>
 
-[![twitter badge](https://img.shields.io/badge/twitter-_Akshatji800-0077b5?style=social&logo=twitter)](https://twitter.com/jenish_desai_17)
-[![telegram badge](https://img.shields.io/badge/telegram-akshatji800-0077b5?style=social&logo=telegram)](https://t.me)
-[![linkedin badge](https://img.shields.io/badge/linkedin-akshat_tripathi-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/desai-jenish-132b671b1/)
+[![twitter badge](https://img.shields.io/badge/twitter-_jenish_desai_17-0077b5?style=social&logo=twitter)](https://twitter.com/jenish_desai_17)
+[![linkedin badge](https://img.shields.io/badge/linkedin-desai-jenish-132b671b1?style=social&logo=linkedin)](https://www.linkedin.com/in/desai-jenish-132b671b1/)
 
 
 ## Hello guys, this is Jenish Desai!
