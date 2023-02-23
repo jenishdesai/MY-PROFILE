@@ -1,13 +1,13 @@
-<p align="center"><a href="https://github.com/Akshatji800/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/jenishdesai/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 <p align="center"><img src="header.gif" alt="Header-GIF" width="100%"/></a></p>
 
-[![twitter badge](https://img.shields.io/badge/twitter-_Akshatji800-0077b5?style=social&logo=twitter)](https://twitter.com/Akshatji800)
-[![telegram badge](https://img.shields.io/badge/telegram-akshatji800-0077b5?style=social&logo=telegram)](https://t.me/akshatji800)
-[![linkedin badge](https://img.shields.io/badge/linkedin-akshat_tripathi-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/akshat-tripathi-449a2922b/)
-[![blog badge](https://img.shields.io/badge/website-akshatji800.github.io-1f425f?style=social)](https://akshatji800.github.io)
+[![twitter badge](https://img.shields.io/badge/twitter-_Akshatji800-0077b5?style=social&logo=twitter)](https://twitter.com/jenish_desai_17)
+[![telegram badge](https://img.shields.io/badge/telegram-akshatji800-0077b5?style=social&logo=telegram)](https://t.me)
+[![linkedin badge](https://img.shields.io/badge/linkedin-akshat_tripathi-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/desai-jenish-132b671b1/)
 
-## Hello guys, this is Akshat Tripathi!
+
+## Hello guys, this is Jenish Desai!
 
 - 🏫 I'm currently studying at Amrita School of Engineering, Amritapuri
 - 🧍‍♂️ I'm currently an active member at [amFOSS](http://www.amfoss.in)
