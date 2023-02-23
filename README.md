@@ -8,10 +8,9 @@
 
 ## Hello guys, this is Jenish Desai!
 
-- 🏫 I'm currently studying at Amrita School of Engineering, Amritapuri
-- 🧍‍♂️ I'm currently an active member at [amFOSS](http://www.amfoss.in)
+- 🏫 I'm currently studying at IIITV-ICD
 - 👨🏻‍💻 I'm currently trying to enhance my programming skills and learn new things.
-- 📫 For contacting me send an [Email](mailto:zapaktayat@gmail.com).
+- 📫 For contacting me send an [Email](jenishdesai63@gmail.com).
 - 😄 Watch movies to enjoy!
 
 ## Skills👨‍💻
